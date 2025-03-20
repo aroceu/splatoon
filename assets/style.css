@@ -1,0 +1,414 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Fuzzy+Bubbles:wght@400;700&family=Gaegu&display=swap');
+
+*, html{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	background: url('../assets/bg.gif') repeat;
+	font: normal 100%/160% 'Fuzzy Bubbles', sans-serif;
+	color: #333;
+}
+
+main{
+	width: 60%;
+	margin: 0 auto;
+}
+
+h1{
+	font: normal 4.5em 'Gaegu', sans-serif;
+	text-align: center;
+	margin: 1em 0 0.5em;
+	color: #ee699c;
+	text-transform: lowercase;
+	text-shadow: 2px 2px 0px #fff;
+}
+
+#footer{
+	color: #e880a3;
+	font: normal 180% 'Gaegu', sans-serif;
+	text-align: center;
+	margin: 2em 0;
+	text-shadow: 2px 2px 0px #fff;
+}
+
+nav{
+	position: fixed;
+	right: 0;
+	top: 0;
+	margin-top: 5%;
+	text-align: right;
+	width: 15%;
+}
+
+nav ul{
+	list-style: none;
+}
+
+nav ul li{
+	margin: 1em 0;
+	font: normal 150% 'Gaegu', sans-serif;
+	text-transform: lowercase;
+}
+
+nav ul li a:link, nav ul li a:visited, docnav ul li a:link, docnav ul li a:visited{
+	color: #fff;
+	text-decoration: none;
+	background: #ee699c;
+	padding: 0.5em;
+	display: block;
+	border: solid 1px #ee699c;
+}
+
+nav ul li a:hover, nav ul li a:active, docnav ul li a:hover, docnav ul li a:active{
+	background: #fff;
+	color: #ee699c;
+}
+
+docnav{
+	position: fixed;
+	left: 0;
+	top: 0;
+	margin-top: 5%;
+	text-align: left;
+	width: 15%;
+}
+
+docnav ul{
+	list-style: none;
+}
+
+docnav ul li{
+	margin: 1em 0;
+	font: normal 150% 'Gaegu', sans-serif;
+	text-transform: lowercase;
+}
+
+.content{
+	background: #fff;
+	border: 1px solid #ee699c;
+	padding: 1em;
+}
+
+strong{
+	font-family: 'Fuzzy Bubbles', sans-serif;
+	color: #ee699c;
+}
+
+em{
+	color: #ee699c;
+}
+
+/** index styling **/
+
+#index{
+	padding-bottom: 3em;
+}
+
+#locker{
+	position: absolute;
+	top: 20%;
+	left: 5%;
+}
+
+#locker img{
+	width: 220px;
+}
+
+#locker img:hover{
+	cursor: pointer;
+}
+
+#random-image{
+	width: 35%;
+	display: inline-block;
+	text-align: center;
+}
+
+#random-image img{
+	height: 350px;
+}
+
+#bio{
+	float: right;
+	width: 60%;
+	display: inline-block;
+	font-size: 115%;
+	line-height: 160%;
+}
+
+#bio img{
+	height: 30px;
+	vertical-align: middle;
+}
+
+#bio img.modes{
+	height: 25px;
+}
+
+#badges{
+	clear: both;
+	text-align: center;
+	margin: 1em auto;
+}
+
+#badges img{
+	height: 40px;
+}
+
+/** main styling **/
+
+#mainheader{
+	background-image: linear-gradient(to top, #f7ede3, #f4b3d2);
+	height: 80px;
+	width: 100%;
+	text-align: center;
+}
+
+#mainheader img{
+	height: 70px;
+	margin: 5px 0;
+}
+
+.outfit{
+	text-align: center;
+	background: #fafafa;
+	padding: 10px;
+	border: 4px #ee91be dotted;
+}
+
+.outfit img{
+	height: 280px;
+	image-rendering: pixelated;
+}
+
+#weapons ul{
+	margin: 1.5em 0 0;
+	list-style-type: none;
+	text-align: center;
+}
+
+#weapons ul li{
+	display: inline-block;
+}
+
+#weapons ul li a:active img, #weapons ul li a:focus img, #weapons ul li a:hover img, #weapons ul li a:target img, .active, .favactive, .otheractive{
+	background: #fcd2d9;
+	border-bottom: none;
+  	display: inline-block;
+}
+
+#weapons ul li a:active, #weapons ul li a:focus, #weapons ul li a:hover, #weapons ul li a:target{
+	background: none;
+}
+
+.content #weapons img{
+	height: 70px;
+}
+
+/** maps styling **/
+
+h2{
+	background: #ffe7f3 url('../assets/headerbg.gif');
+	color: #ec4781;
+	text-shadow: 2px 2px 0 #fff;
+	text-align: center;
+	text-transform: lowercase;
+	font: normal 150% 'Fuzzy Bubbles', sans-serif;
+	padding: 7px;
+	clear: both;
+}
+
+#maps .gallery{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#maps .gallery img{
+	width: 45%;
+	margin: 1em;
+}
+
+#maps .caption{
+	text-align: center;
+	margin-bottom: 1em;
+}
+
+#maps label{
+	display: inline-block;
+	width: 49%;
+	font: normal 150% 'Gaegu', sans-serif;
+	color: #ee699c;
+}
+
+#maps label:hover{
+	cursor: default;
+}
+
+/** gallery styling **/
+
+#fits .content, #art-gallery .content, #teams .content{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#fits .content label, #art-gallery .content label, #teams .content label{
+	display: inline-block;
+	width: 50%;
+	font: normal 180% 'Fuzzy Bubbles', sans-serif;
+	background: #ee699c;
+	color: #fff;
+	text-align: center;
+	text-transform: lowercase;
+	padding: 10px;
+}
+
+#art-gallery .content label{
+	font: normal 200%/115% 'Gaegu';
+	text-transform: capitalize;
+}
+
+.radiobutton:checked + label, label:hover{
+	background-color: #fff!important;
+	color: #ee91be!important;
+	cursor: pointer;
+}
+
+.option {
+	order: 1;
+	width: 100%;
+	margin: 1em 0 0;
+	display: none;
+}
+
+.radiobutton {
+	display: none;
+}
+
+.radiobutton:checked + label + .option {
+	display: initial;
+}
+
+.radiobutton:checked + .option {
+	display: initial;
+}
+
+/** teams styling **/
+
+.gallery{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+#teams .gallery img{
+	width: 45%;
+	margin: 1em;
+	height: 100%;
+}
+
+#teams h2{
+	font: normal 180% 'Gaegu', sans-serif;
+	text-transform: none;
+}
+
+/** art styling **/
+
+#art-gallery .gallery img{
+	width: 30%;
+	margin: 1%;
+	height: fit-content;
+}
+
+#art-gallery .gallery img.small{
+	width: 20%;
+	margin: 1% 10%;
+	height: fit-content;
+}
+
+/** docs styling **/
+#docs h2{
+	font: normal 280%/50% 'Gaegu', sans-serif;
+	color: #ee699c;
+	text-align: center;
+	text-transform: lowercase;
+	padding: 0.5em 0;
+	background: none;
+	border-bottom: 5px dotted #ee699c;
+	letter-spacing: 3px;
+}
+
+hr{
+	border-top: none;
+	border-bottom: 5px dotted #ee699c;
+	display: block;
+	margin: 2em auto 0;
+	border-left: none;
+  border-right: none;
+}
+
+#docs p{
+	padding: 0.5em 0;
+}
+
+#docs p.first{
+	padding-top: 1.5em;
+}
+
+#docs ul{
+	list-style-type: none;
+	margin: 0.5em;
+}
+
+#docs li{
+	padding: 0.25em 0;
+}
+
+#docs li:before{
+	content: '';
+  display: inline-block;
+  height: 25px;
+  width: 25px;
+  background-image: url('../assets/bullet.png');
+  background-size: contain;
+  background-repeat: no-repeat;
+  padding-right: 20px;
+  vertical-align: text-bottom;
+}
+
+ul#twocol{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+
+ul#twocol li{
+	width: 50%;
+}
+
+a:link, a:visited{
+	color: #ee699c;
+	text-decoration: wavy underline 1px;
+}
+
+a:hover, a:active{
+	background: #ee699c;
+	color: #fff;
+}
+
+h3{
+	font: normal 2.2em/0.4em 'Gaegu', sans-serif;
+	text-transform: lowercase;
+	color: #ef748b;
+	margin: 0.5em 0;
+	background: #ffecf4;
+	text-shadow: 2px 2px 0 #fff;
+}
+
+#blurb p, #faveblurb p, #othersblurb p{
+	padding: 0.5em;
+}
