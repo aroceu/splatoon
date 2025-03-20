@@ -196,7 +196,7 @@
 
         <ul>
             <li>ProChara (for competitive analysis)</li> 
-            <li>KyochanDxD (for slayer/bucket gameplay) & whatever NA team he's currently active in</li>
+            <li>KyochanDxD (for slayer/blaster gameplay) & whatever NA team he's currently active in</li>
             <li>Kiver (for slayer/shooter gameplay)</li>
             <li>Erito (for tri-stringer gameplay)</li>
             <li>DUDE/ThatSRB2Dude (for weapon variety gameplay)</li>
