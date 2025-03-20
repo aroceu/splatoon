@@ -61,6 +61,7 @@
             <p><strong>Salmon Run:</strong> EVP999 (S3) / Pro800 (S2)</p>
             <p><strong>Idols:</strong>
             <img src="assets/idols/oth.png" alt="off the hook">
+            <img src="assets/idols/callie.png" alt="callie (squid sisters)">
             <img src="assets/idols/shiver.png" alt="shiver (deep cut)">
             </p>
             <p><strong>Since:</strong> June 2018 (S2), Oct 2023 - Sept 2024 (comp)</p>

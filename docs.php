@@ -157,7 +157,8 @@
         <p>Since then, I've been taking a several months-long break, due to the burnout that playing comp for nearly a year gave me. But this isn't anything new; I was burnt out after 
             I got all my X ranks in 2020, too. Still, much like my infrequency with playing Pok&eacute;mon games, Splatoon remains to be a part of my brain and my heart and identity,
             even if I spend long periods of time not playing it. 
-            I have perhaps an embarrassing amount of merchandise, most notably a scalped IRL Moby Knit (my main sweater) and 3D printed tri-stringer from <a href="https://www.etsy.com/shop/PurplepumaPrints">PurplepumaPrints on Etsy</a>, so I can cosplay my own octoling. Knife also made me my Anchor
+            I have perhaps an embarrassing amount of merchandise, most notably a scalped IRL Moby Knit (my main sweater) and 3D printed tri-stringer from <a href="https://www.etsy.com/shop/PurplepumaPrints">PurplepumaPrints on Etsy</a>, so I can cosplay my own octoling. 
+            I actually did, when Rae and I met up for Katsucon in 2025, and we always got excited whenever we saw and bought Splatoon merch, which happened often, particularly with the same or matching things, like our Salmon Run t-shirts. Knife also made me my Anchor
         Sweat from my Heavy Edit outfit, so I have that IRL too. </p>
 
         <p>And I know that every time I take a break from Splatoon, that's all it really is - a break. No matter what games come out in the future, no matter what I think about them, and no matter
@@ -171,8 +172,10 @@
             I consider octolings to be my splatsona's canon species.</p>
             
         <p>As an inkling I favor the feminine long hair side shave hairstyle, but my character's eye and skin color remain the same.</p> 
-            
+
             <p>I'm aware that "ika" means squid in Japanese despite my character being an octopus. I think the irony is funny.</p>
+            
+            <p>I like <strong>Off the Hook</strong> the most as a group because it's just Pearl and Marina being lesbians in love. My favorite idol generally though is Callie, as of Splatoon 3 - she was the highlight of the hero mode for me. I also like Shiver a lot, particularly her design. I'm inclined to ship anything gay; after Pearlina, Agent 8/3 is one of my favorites. I don't really read or write Splatoon fanfiction, but I really like seeing the art.</p>
 
         <p>Splatoon has also:</p>
 

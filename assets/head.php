@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>ARROW.ika</title>
+    <title>ARROW.iKA</title>
     <meta name="robots" content="noai, noimageai">    
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
