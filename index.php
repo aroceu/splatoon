@@ -37,7 +37,7 @@
         <div id="bio">
 
             <div class="content">
-            <p><strong>Name:</strong> &darr;&times;ARROW.iKA</p>
+            <p><strong>Name:</strong> &darr;&times;Arrow.iKA</p>
             <p><strong>Mains:</strong>
             <img src="assets/weapons/tristringer.png" alt="tri-stringer"> 
             <img src="assets/weapons/chs.png" alt="custom hydra splatling"> 

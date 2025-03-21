@@ -326,7 +326,7 @@
             <li><strong>Kai/Kaizoku_Tako</strong>, for the meme art of my octoling saying "RAE HOLY FUCK" and dabbing (they did it first! before Splatoon 3 gave us emotes!)</li>
         </ul>
 
-        <p></p>
+        <p class="splashtag"><img src="assets/splashtag.png" width="350"></p>
 
     </div>
 
