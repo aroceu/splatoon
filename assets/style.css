@@ -338,7 +338,9 @@ h2{
 	padding: 0.5em 0;
 	background: none;
 	border-bottom: 5px dotted #ee699c;
+	border-top: 5px dotted #ee699c;
 	letter-spacing: 3px;
+	background: url('docshead.jpg');
 }
 
 hr{
