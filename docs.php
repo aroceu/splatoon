@@ -164,8 +164,6 @@
         <p>And I know that every time I take a break from Splatoon, that's all it really is - a break. No matter what games come out in the future, no matter what I think about them, and no matter
             what weapons I'll try and like later, Splatoon will always be one of my favorite games.</p>
 
-        <hr />
-
         <h2 id="player">Player Info</h2>
 
         <p class="first">I got into Splatoon 2 in June 2018, but Octo Expansion came out in July 2018. As soon as I saw the designs for the playable octolings, I felt more inclined toward them, and I've been mostly been playing as one ever since. 
@@ -246,8 +244,6 @@
 
         <p>My favorite mode is Rainmaker because I like the satisfaction of team synergy. I'm most consistent with Tower Control as a backliner, though. The Rainmaker is my wife and the Tower is my girlfriend. You get it. </p>
 
-        <hr />
-
         <h2 id="site">Site Info</h2>
 
         <p class="first">If you know me, you know I love making a website. I've been meaning to make some sort of personal Splatoon site for years, in the same spirit of my <a href="https://icirr.us">Pok&eacute;mon site</a>.
@@ -292,8 +288,6 @@
         <p>(This website was also an exercise in Javascript.)</p>
         
         <p>Thanks for reading!</p>
-
-        <hr />
 
         <h2 id="credits">Credits</h2>
 
