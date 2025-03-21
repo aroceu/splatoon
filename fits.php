@@ -103,7 +103,7 @@
     function faveCjr() {
         var Image_Id = document.getElementById('faveWeaponFit');
                 Image_Id.src = "fits/favs/cjr-fit.png";
-                document.getElementById("faveblurb").innerHTML = '<p>The <strong>Custom Splattershot Jr.</strong> was incredibly fun for me to play when it came out, and still serves to be a silly brain-off supportive weapon when I feel like playing it. It combos well with the tri-stringer, and play kind of similarly, too, in getting value out of chip damage. I like playing the cjr for some of the same reasons I like playing the bow.</p>';
+                document.getElementById("faveblurb").innerHTML = '<p>The <strong>Custom Splattershot Jr.</strong> was incredibly fun for me to play when it came out, and still serves to be a silly brain-off supportive weapon when I feel like playing it. It combos well with the tri-stringer, and gets value out of chip damage kind of similarly. The torpedo and wave breaker combo especially allows me to poke people out of locations, paint if I need to escape, or fight if I think I can win.</p>';
                 var elements = document.getElementsByClassName('favactive');
             while(elements.length > 0){
         elements[0].classList.remove('favactive');

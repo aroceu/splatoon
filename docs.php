@@ -270,6 +270,16 @@
         to picking after my main weapons, from ones I certainly like but wouldn't pick first or feel that my mechanical skill is lesser with. But as I've stated several times, playing the actual game is only a little bit more than half my enjoyment with it. 
         The rest is just making cutesy outfits.</p>
 
+        <p>There is some discrepancy between the weapons listed here and the index page in terms of being my favorites due to how I think about it technically: </p>
+
+        <ul>
+            <li>The <strong>Custom Wellstring V</strong> is listed as one of my favorites because it plays similarly to my main weapon and is in its class. So I like playing it for the same reasons that I like playing my actual favorite weapon, but that doesn't necessarily make it one of my go-to "favorite" weapons outside of my main.</li>
+            <li>I like playing the <strong>Tri-Slosher Nouveau</strong> a lot, but it's not the role that I'm inclined to, and I don't like getting outclassed when I'm playing it. I like to pull it out every once in a while to get some whimsy and joy, but not too often to keep it that way.</li>
+            <li>The <strong>Custom Junior</strong> is fun primarily for its kit, but otherwise I like nzaps and the .52 gal better as shooters.</li>
+            <li>I like and play the <strong>Explosher</strong> enough to put it on my favorites list, but it's really just a backline paint option for me if I feel like the bow can't paint enough. Except for the Custom Explosher, which I pull out to be stupid and annoying.</li>
+            <li>Playing the <strong>Slosher</strong> is actually not that stimulating for me, but I do think I understand it really well - I mean, sloshers are my second favorite class after splatlings. When I play it, it's usually because I know my mechanical skill is good with it. But not because I enjoy the act of playing the weapon anymore than the ones that aren't listed on this site (which I do play, sometimes, for fun.)</li>
+        </ul>
+
         <p>The <strong>maps</strong> are my favorite maps of each mode and game. I have feelings for the maps in the sense that I think a lot about how they play and how I feel about them and why. But they're not that special - my favorites
         make me a stereotypical backliner more than anything.</p>
 
