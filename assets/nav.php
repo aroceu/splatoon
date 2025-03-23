@@ -1,11 +1,11 @@
 <nav>
 	<ul>
-		<li><a href="index.php">Info</a></li>
-		<li><a href="mains.php">Mains</a></li>
-		<li><a href="fits.php">Outfits</a></li>
-		<li><a href="maps.php">Maps</a></li>
-		<li><a href="gallery.php">Gallery</a></li>
-		<li><a href="teams.php">Team Pics</a></li>
-		<li><a href="docs.php">Documentation</a></li>
+		<li><a href="index">Info</a></li>
+		<li><a href="mains">Mains</a></li>
+		<li><a href="fits">Outfits</a></li>
+		<li><a href="maps">Maps</a></li>
+		<li><a href="gallery">Gallery</a></li>
+		<li><a href="teams">Team Pics</a></li>
+		<li><a href="docs">Documentation</a></li>
 	</ul>
 </nav>
