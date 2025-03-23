@@ -235,7 +235,7 @@
 
         <ul>
             <li>I like the Nautilus (splatling) plenty, but I don't let myself play it very often because then it'll mess up my muscle memory for the splatlings I play more often (hydra/edit/heavy.) The ballpoint plays similarly, I suppose, but between the naut and the ballpoint, I prefer the ballpoint.</li>
-            <li>My favorite weapon classes in order are: splatlings &rarr; sloshers &rarr; stringers &rarr; shooters &rarr; shooters. Everything else comes after that.</li>
+            <li>My favorite weapon classes in order are: splatlings &rarr; sloshers &rarr; stringers &rarr; shooters &rarr; chargers. Everything else comes after that.</li>
             <li>More Splatoon 3 maps I like: Inkblot Art Academy (2 & 3), Scorch Gorge, Eeltail Alley, Um'ami Ruins, Barnacle & Dime, Shipshape Cargo Co., and Robo-ROM-en.</li>
             <li>More Splatoon 2 maps I like: Starfish Mainstage, The Reef, Port Mackerel, Kelp Dome, and Goby Arena.</li>
             <li>My least favorite maps: Blackbelly Skatepark, Moray Towers, Humpback Pump Track (unless I'm frontlining), Skipper Pavilion, and Bluefin Depot. But I'll still play them.</li>
