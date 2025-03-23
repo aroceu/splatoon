@@ -221,6 +221,71 @@
         event.target.classList.add('otheractive');
             }
 
+    function othersCblast() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/cblast-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>Though I&apos;m not much of a blaster player, after watching Nikolini tear through X rank with the <strong>Custom Blaster</strong>, I thought to myself, well, I can do that too. I can&apos;t, really, at least through X-rank - but through trying this I did discover that playing the custom blaster is simultaneously challenging <em>and</em> fun for me.</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+    
+    function othersCliter() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/cliter-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>I&apos;m not a big sniper player outside of the Squiffer, but I pull out the <strong>Custom E-Liter 4K Scope</strong> every once in a while if I&apos;m feeling like being long range and silly. I prefer scopes particularly for the partial shots, and I favor the eliter because I like range.</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+
+    function othersInkbrush() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/inkbrush-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>When I feel like being annoying and doing literally nothing else, I equip the <strong>Inkbrush</strong>. As a silly and carpal tunnel-inducing weapon, I have a lot of fun running around and annoying people by killing them. And occasionally dying for it.</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+
+    function othersNmachine() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/nmachine-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>The <strong>Sloshing Machine Neo</strong> is my weakest slosher, but I play it more as a practice for arc shots with the bow. It makes sense to me, okay. I like its kit a lot (point sensor and zooka), though it&apos;s not the only weapon with it. But it is the one I prefer.</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+
+    function othersReeflux() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/reeflux-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>With the other bows, I don&apos;t pull out the <strong>Reeflux 450</strong> that much. But sometimes I do, particularly for Turf War. I feel like I should like it more since it kind of plays like if a bow was a Squiffer. Maybe I&apos;ll get into it more one day.</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+
+    function othersStent() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/stent-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>Of all of the brellas, the <strong>Sorella Tenta Brella</strong> is the one I gravitate toward the most. I have a slight inclination for heavy weapons after playing the hydra for so long, and I think the way the tenta brella plays is super interesting and I would like to get better at it. Its kit is pretty good, too.</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
 </script>
 
 <body>
@@ -280,6 +345,7 @@
                 <div id="weapons">
                     <ul>
                         <li><a href="#" onclick="othersPencil()"><img src="weapons/pencil.png"></a></li>
+                        <li><a href="#" onclick="othersCliter()"><img src="weapons/cliter.png"></a></li>
                         <li><a href="#" onclick="othersCjet()"><img src="weapons/cjet.png"></a></li>
                         <li><a href="#" onclick="othersShot()"><img src="weapons/shot.png"></a></li>
                         <li><a href="#" onclick="othersTentatek()"><img src="weapons/ttek.png"></a></li>
@@ -287,8 +353,13 @@
                         <li><a href="#" onclick="othersExplo()"><img src="weapons/explo.png"></a></li>
                         <li><a href="#" onclick="othersCexplo()"><img src="weapons/cexplo.png"></a></li>
                         <li><a href="#" onclick="othersSlosher()"><img src="weapons/slosher.png"></a></li>
+                        <li><a href="#" onclick="othersNmachine()"><img src="weapons/nmachine.png"></a></li>
                         <li><a href="#" onclick="othersFlingza()"><img src="weapons/flingza.png"></a></li>
+                        <li><a href="#" onclick="othersInkbrush()"><img src="weapons/inkbrush.png"></a></li>
                         <li><a href="#" onclick="othersGloogas()"><img src="weapons/gloogas.png"></a></li>
+                        <li><a href="#" onclick="othersStent()"><img src="weapons/stent.png"></a></li>
+                        <li><a href="#" onclick="othersCblast()"><img src="weapons/cblast.png"></a></li>
+                        <li><a href="#" onclick="othersReeflux()"><img src="weapons/reeflux.png"></a></li>
 
                     </ul>
                 </div>
