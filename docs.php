@@ -126,7 +126,7 @@
             the satisfaction of getting a kill with a tri-stringer - or even better, a direct shot - was more stimulating than anything else in the game.</p>
 
         <p align="center"><img src="assets/bow-direct.gif" width="500">
-    <br /><em>My most impressive direct shot with the bow (so far.)</em></p>
+    <br /><em>My most impressive direct shot with the bow (so far.) RIP bluey `_`</em></p>
 
         <p>I practiced my mechanical skill with the tri-stringer in the hero mode level, <em>"One-Way Ride Through Target Town"</em>, which is also one of the most 
         difficult levels in Splatoon 3's overall more challenging single player campaign. (It is still the single player campaign, though.) It was my warmup before I would hop into multiplayer, and it was 
