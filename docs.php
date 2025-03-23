@@ -1,5 +1,7 @@
 <?php include('assets/head.php') ?>
 
+<script type="text/javascript" src="assets/scripts/freezeframe.min.js"></script>
+
 <body>
 
     <docnav>
@@ -125,7 +127,12 @@
             and not super effective but still existing short range option if the situation calls for it. It felt difficult to use, but when I did something right, 
             the satisfaction of getting a kill with a tri-stringer - or even better, a direct shot - was more stimulating than anything else in the game.</p>
 
-        <p align="center"><img src="assets/bow-direct.gif" width="500">
+        <p align="center"><img src="assets/bow-direct.gif" style="width: 500px!important;" class="overlay">
+        <script>
+new Freezeframe('.overlay', {
+  overlay: true
+});
+</script>
     <br /><em>My most impressive direct shot with the bow (so far.) RIP bluey `_`</em></p>
 
         <p>I practiced my mechanical skill with the tri-stringer in the hero mode level, <em>"One-Way Ride Through Target Town"</em>, which is also one of the most 
