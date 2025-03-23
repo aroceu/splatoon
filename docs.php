@@ -231,9 +231,14 @@
             
         <p>I've read and own a lot of the Splatoon manga, though I haven't caught up since I first read it in 2019. As these things happen. My main opinion of the manga is that I think Rider/Goggles is a new generation of Sasuke/Naruto.</p>
 
-        <p>Some other notable moments during my Splatoon career that didn't fit in the history section nicely:</p>
+        <p>Some other Splatoon-related fun facts or notable moments during my Splatoon career that didn't fit in the history section nicely:</p>
 
         <ul>
+            <li>I like the Nautilus (splatling) plenty, but I don't let myself play it very often because then it'll mess up my muscle memory for the splatlings I play more often (hydra/edit/heavy.) The ballpoint plays similarly, I suppose, but between the naut and the ballpoint, I prefer the ballpoint.</li>
+            <li>My favorite weapon classes in order are: splatlings &rarr; sloshers &rarr; stringers &rarr; shooters &rarr; shooters. Everything else comes after that.</li>
+            <li>More Splatoon 3 maps I like: Inkblot Art Academy (2 & 3), Scorch Gorge, Eeltail Alley, Um'ami Ruins, Barnacle & Dime, Shipshape Cargo Co., and Robo-ROM-en.</li>
+            <li>More Splatoon 2 maps I like: Starfish Mainstage, The Reef, Port Mackerel, Kelp Dome, and Goby Arena.</li>
+            <li>My least favorite maps: Blackbelly Skatepark, Moray Towers, Humpback Pump Track (unless I'm frontlining), Skipper Pavilion, and Bluefin Depot. But I'll still play them.</li>
             <li>The most morally incorrect game I've ever played was <a href="https://are-you-judd-enough.tumblr.com/post/746780534538141696/who-won-good-guys-purple-bad-guys">this Turf War game</a>
             when Qul, Micah, and Octo (of Inkblot Dropouts fame) and I all decided to do quad Explosher with it. <a href="https://www.youtube.com/watch?v=JTOGAMP50-Y">Here's an overhead replay of the game</a>, if you're curious.</li>
             <li>During one of the Egg vs. Chicken Splatfests in Splatoon 2, Rae, our friend Fizz, their friend Marlee, and I all decided to try to match certain weapons and gear to get silly team names.
