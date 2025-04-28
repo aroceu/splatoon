@@ -9,6 +9,7 @@
             <li><a href="#history">History</a></li>
             <li><a href="#player">Player Info</a></li>
             <li><a href="#site">Site Info</a></li>
+            <li><a href="#youtube">Youtube Recs</a></li>
             <li><a href="#credits">Credits</a></li>
         </ul>
     </docnav>
@@ -203,7 +204,34 @@ new Freezeframe('.overlay', {
         <p>I'm relatively familiar with high-level competitive Splatoon despite mostly being a lurker and outsider. I know less of the low level teams because there are more of them
             - and new ones practically every season - but I like to keep up with competitive news and the community, especially through YouTube.</p> 
             
-            <p>The competitive players I watch the most regularly are:</p>
+        <p>I've read and own a lot of the Splatoon manga, though I haven't caught up since I first read it in 2019. As these things happen. My main opinion of the manga is that I think Rider/Goggles is a new generation of Sasuke/Naruto.</p>
+
+        <p>Some other Splatoon-related fun facts or notable moments during my Splatoon career that didn't fit in the history section nicely:</p>
+
+        <ul>
+            <li>I like the Nautilus (splatling) plenty, but I don't let myself play it very often because then it'll mess up my muscle memory for the splatlings I play more often (hydra/edit/heavy.) The ballpoint plays similarly, I suppose, but between the naut and the ballpoint, I prefer the ballpoint.</li>
+            <li>My favorite weapon classes in order are: splatlings &rarr; sloshers &rarr; stringers &rarr; shooters &rarr; chargers. Everything else comes after that.</li>
+            <li>More Splatoon 3 maps I like: Inkblot Art Academy (2 & 3), Scorch Gorge, Eeltail Alley, Um'ami Ruins, Barnacle & Dime, Shipshape Cargo Co., and Robo-ROM-en.</li>
+            <li>More Splatoon 2 maps I like: Starfish Mainstage, The Reef, Port Mackerel, Kelp Dome, and Goby Arena.</li>
+            <li>My least favorite maps: Blackbelly Skatepark, Moray Towers, Humpback Pump Track (unless I'm frontlining), Skipper Pavilion, and Bluefin Depot. But I'll still play them.</li>
+            <li>The most morally incorrect game I've ever played was <a href="https://are-you-judd-enough.tumblr.com/post/746780534538141696/who-won-good-guys-purple-bad-guys">this Turf War game</a>
+            when Qul, Micah, and Octo (of Inkblot Dropouts fame) and I all decided to do quad Explosher with it. <a href="https://www.youtube.com/watch?v=JTOGAMP50-Y">Here's an overhead replay of the game</a>, if you're curious.</li>
+            <li>During one of the Egg vs. Chicken Splatfests in Splatoon 2, Rae, our friend Fizz, their friend Marlee, and I all decided to try to match certain weapons and gear to get silly team names.
+                I highly recommend this, as we got names like the "Crazy Toxic Gang", the longest name we could possibly make with "The Annaki-Beret-Rockin' Turquoise-Kicked Undercover-Sorella-Brella Spiky-Haired Syndicate," 
+                and some more sexual sounding ones when we were all using Goo Tubers. We also won several all Goo Tuber games, which still amazes me to this day.</li>
+            </li>
+            <li>Splatoon having a notably vocal scene of mostly LGBT teens continues to be one of my favorite things about the community, and the world in general :')</li>
+        </ul>
+
+        <p>I have over 2000 hours in Splatoon 2, and over 2600 in Splatoon 3. I consider myself decent with every weapon class at this point, particularly as a Salmon Run enthusiast. But I think blasters are my weakest class. </p>
+
+        <p>My favorite mode is Rainmaker because I like the satisfaction of team synergy. I'm most consistent with Tower Control as a backliner, though. The Rainmaker is my wife and the Tower is my girlfriend. You get it. </p>
+
+        <h2 id="youtube">YouTube Recommendations</h2>
+
+        <p class="first">Most of Splatoon's content and competitive community is on YouTube; as a result, I've become someone who practically lives on YouTube. I recommend trawling Splatoon YouTubers for people who wish to engage in fannish content or with other players. Below are the ones that I've spent a lot of time watching and enjoying.</p>
+
+        <p>The competitive players I watch the most regularly are:</p>
 
         <ul>
             <li>ProChara (for competitive analysis)</li> 
@@ -235,29 +263,22 @@ new Freezeframe('.overlay', {
             <li>Etce, Octoboy, and Fyrus</li>
             <li>Failboat</li>
         </ul>
-            
-        <p>I've read and own a lot of the Splatoon manga, though I haven't caught up since I first read it in 2019. As these things happen. My main opinion of the manga is that I think Rider/Goggles is a new generation of Sasuke/Naruto.</p>
 
-        <p>Some other Splatoon-related fun facts or notable moments during my Splatoon career that didn't fit in the history section nicely:</p>
+        <p>And here's a list of my favorite Splatoon video analyses and essays:</p>
 
         <ul>
-            <li>I like the Nautilus (splatling) plenty, but I don't let myself play it very often because then it'll mess up my muscle memory for the splatlings I play more often (hydra/edit/heavy.) The ballpoint plays similarly, I suppose, but between the naut and the ballpoint, I prefer the ballpoint.</li>
-            <li>My favorite weapon classes in order are: splatlings &rarr; sloshers &rarr; stringers &rarr; shooters &rarr; chargers. Everything else comes after that.</li>
-            <li>More Splatoon 3 maps I like: Inkblot Art Academy (2 & 3), Scorch Gorge, Eeltail Alley, Um'ami Ruins, Barnacle & Dime, Shipshape Cargo Co., and Robo-ROM-en.</li>
-            <li>More Splatoon 2 maps I like: Starfish Mainstage, The Reef, Port Mackerel, Kelp Dome, and Goby Arena.</li>
-            <li>My least favorite maps: Blackbelly Skatepark, Moray Towers, Humpback Pump Track (unless I'm frontlining), Skipper Pavilion, and Bluefin Depot. But I'll still play them.</li>
-            <li>The most morally incorrect game I've ever played was <a href="https://are-you-judd-enough.tumblr.com/post/746780534538141696/who-won-good-guys-purple-bad-guys">this Turf War game</a>
-            when Qul, Micah, and Octo (of Inkblot Dropouts fame) and I all decided to do quad Explosher with it. <a href="https://www.youtube.com/watch?v=JTOGAMP50-Y">Here's an overhead replay of the game</a>, if you're curious.</li>
-            <li>During one of the Egg vs. Chicken Splatfests in Splatoon 2, Rae, our friend Fizz, their friend Marlee, and I all decided to try to match certain weapons and gear to get silly team names.
-                I highly recommend this, as we got names like the "Crazy Toxic Gang", the longest name we could possibly make with "The Annaki-Beret-Rockin' Turquoise-Kicked Undercover-Sorella-Brella Spiky-Haired Syndicate," 
-                and some more sexual sounding ones when we were all using Goo Tubers. We also won several all Goo Tuber games, which still amazes me to this day.</li>
-            </li>
-            <li>Splatoon having a notably vocal scene of mostly LGBT teens continues to be one of my favorite things about the community, and the world in general :')</li>
+            <li><a href="https://www.youtube.com/watch?v=_uW5n6KGJCc">What Splatoon's Modes Can Teach Us</a> by Rany</li>
+            <li><a href="https://www.youtube.com/watch?v=tkMiKkN5-Lg">Splatoon's Story and What It Means To Be Human</a> by CosmicCloud</li>
+            <li><a href="https://www.youtube.com/watch?v=O-wiaRx86qw">Splatoon 3 is a masterpiece (and the best shooter in years)</a> by TJ Lounge</li>
+            <li><a href="https://www.youtube.com/watch?v=lCxgN70PAMk">The Immaculate Vibes of Splatoon</a> by Nintendo Hero</li>
+            <li><a href="https://www.youtube.com/watch?v=Fv7HBlaE2s4">Splatoon and the Power of Music (Video Essay)</a> by pixeltea</li>
+            <li><a href="https://www.youtube.com/watch?v=suRdLbdfdhA">You're an Adult Now | Splatoon 1 - 3</a> by ConstantlyCaden</li>
+            <li><a href="https://www.youtube.com/watch?v=gKFRRnLimrg">Splatoon: Nintendo's Darkest Franchise</a> by Pocketnaut</li>
+            <li><a href="https://www.youtube.com/watch?v=38h8eudzy7k">Behind Splatoon's Final Minute of Music</a> by Scruffy</li>
+            <li><a href="https://www.youtube.com/watch?v=8Nk4P5nJeDE">The Complete Splatoon Lore Timeline</a> by rizirone</li>
+            <li><a href="https://www.youtube.com/watch?v=vOVPjIdavho">Splatoon 3's OFF META TOP TEAM: The story of MOONLIGHT</a> by Toyoben</li>
+            <li><a href="https://www.youtube.com/watch?v=rOG7H_HoJ6I">GOO TUBER: Splatoon's Best Mistake</a> by Splashpanda</li>
         </ul>
-
-        <p>I have over 2000 hours in Splatoon 2, and over 2600 in Splatoon 3. I consider myself decent with every weapon class at this point, particularly as a Salmon Run enthusiast. But I think blasters are my weakest class. </p>
-
-        <p>My favorite mode is Rainmaker because I like the satisfaction of team synergy. I'm most consistent with Tower Control as a backliner, though. The Rainmaker is my wife and the Tower is my girlfriend. You get it. </p>
 
         <h2 id="site">Site Info</h2>
 

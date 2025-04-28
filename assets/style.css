@@ -5,6 +5,8 @@
 	margin: 0;
 	padding: 0;
 	cursor: url(cursor.png), auto !important;
+	scrollbar-color: #ee699c #fff;
+	scrollbar-width: thin;
 }
 
 html{
@@ -342,7 +344,7 @@ h2:first-child{
 }
 
 /** docs styling **/
-#docs h2{
+#docs h2, #stuff h2{
 	font: normal 280%/50% 'Gaegu', sans-serif;
 	color: #ee699c;
 	text-align: center;
@@ -431,3 +433,69 @@ p.splashtag{
 	text-align: center;
 }
 
+/** stuff styling **/
+
+#stuff .grid{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	margin: 0 auto;
+}
+
+.item{
+	flex: 33.33%;
+	max-width: 33.33%;
+	height: 20em;
+	overflow: hidden;
+}
+
+.item img{
+	object-fit: scale-down;
+	filter: var(--image-shadow);
+	padding: 1em;
+	max-width: 100%;
+  height: 9em;
+	}
+
+.item img:hover{
+	transform: rotate(-10deg) scale(110%);
+}
+
+.image{
+	text-align: center;
+}
+
+.text{
+	height: 10em;
+  overflow: auto;
+  background: var(--text-bg);
+  padding: 5px;
+  font-size: 90%;
+}
+
+#stuff .grid .item:nth-child(2n+1){
+	background: url('splash-1.png') no-repeat center;
+	background-size: cover;
+	height: 100%;
+}
+
+#stuff .grid .item:nth-child(2n+1) strong, #stuff .grid .item:nth-child(2n+1) a:link, #stuff .grid .item:nth-child(2n+1) a:visited{
+	color: #FFC0E8;
+	text-shadow: 1px 1px 0 #ef748b;
+}
+
+#stuff .grid .item:nth-child(3n){
+	background: url('splash-2.png') no-repeat center;
+	background-size: cover;
+	height: 100%;
+}
+
+#stuff .grid .item:nth-child(3n) strong, #stuff .grid .item:nth-child(3n) a:link, #stuff .grid .item:nth-child(3n) a:visited{
+	color: #ef748b;
+	text-shadow: none;
+}
+
+#stuff .grid .item:nth-child(2n+1) a:hover, #stuff .grid .item:nth-child(3n) a:hover{
+	color: #fff;
+}

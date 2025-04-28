@@ -6,6 +6,7 @@
 		<li><a href="maps">Maps</a></li>
 		<li><a href="gallery">Gallery</a></li>
 		<li><a href="teams">Team Pics</a></li>
+		<li><a href="stuff">Stuff</a></li>
 		<li><a href="docs">Documentation</a></li>
 	</ul>
 </nav>
