@@ -52,8 +52,7 @@
         <p>I was only playing Turf War, though. Soon after I hit up my friend Rae, who I've known since late 2014, because I logged
             into my old Twitter account to lurk and to see if any other friends were playing Splatoon 2. I couldn't play with my 
             roommates because we'd need another Switch for it, so I was mostly playing with random people through matchups - or, in
-            other words, by myself. Rae and I were decently close so when I saw that she was also playing quite frequently, I asked
-            her if she wanted to play together. Of course, she agreed.</p>
+            other words, by myself. Rae and I were decently close so she asked me if I wanted to play together sometime. Of course, I agreed.</p>
 
         <p>We played together; Rae mentioned playing Ranked, which I hadn't touched. To be honest, I was initially scared of it, and
             then completely forgot about it. I don't know if we played League before I played Ranked, but both happened in quick
