@@ -338,7 +338,7 @@ new Freezeframe('.overlay', {
 
         <p class="first">I hand-coded this website with Visual Studio Code and through XAMPP. Obvious editing in graphics and PNGs were done by me in Photoshop.</p>
 
-        <p>Graphics of weapons, maps, and badges come from the ever-resourceful <a href="https://splatoonwiki.org">Inkipedia.</a> Outfit builders showcasing gear slots are done on <a href="https://sendou.ink/">sendou.ink</a>. Splat bulletpoints were made with <a href="https://www.deviantart.com/inukawaiilover/art/Splatoon-Ink-Splashes-566519456">these brushes by InuKawaiiLover</a>. The splashtag at the bottom was made at <a href="https://splashtagmaker.com/">splashtagmaker.com</a>.</p>
+        <p>Graphics of weapons, maps, and badges come from the ever-resourceful <a href="https://splatoonwiki.org">Inkipedia.</a> Outfit builders showcasing gear slots are done on <a href="https://sendou.ink/">sendou.ink</a>. Splat bulletpoints were made with <a href="https://www.deviantart.com/inukawaiilover/art/Splatoon-Ink-Splashes-566519456">these brushes by InuKawaiiLover</a>. The cursor is from <a href="https://www.rw-designer.com/cursor-set/splatoon-inkling">rw-designer</a>. The splashtag at the bottom was made at <a href="https://splashtagmaker.com/">splashtagmaker.com</a>.</p>
 
         <p>All art is also displayed and properly attributed in my <a href="https://aroceu.com/gifts/splatoon/">gifts directory</a>, but here's a rundown of art credits:</p>
 
