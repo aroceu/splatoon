@@ -118,7 +118,7 @@ em{
 
 #locker{
 	position: absolute;
-	top: 20%;
+	top: 15%;
 	left: 5%;
 }
 
@@ -263,13 +263,13 @@ h2:first-child{
 
 /** gallery styling **/
 
-#fits .content, #art-gallery .content, #teams .content{
+#fits .content, #art-gallery .content, #teams .content, #maps .content, #cosplay .content{
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 }
 
-#fits .content label, #art-gallery .content label, #teams .content label{
+#fits .content label, #art-gallery .content label, #teams .content label, #maps .content label, #cosplay .content label{
 	display: inline-block;
 	width: 50%;
 	font: normal 180% 'Fuzzy Bubbles', sans-serif;
@@ -278,6 +278,10 @@ h2:first-child{
 	text-align: center;
 	text-transform: lowercase;
 	padding: 10px;
+}
+
+#cosplay .content label{
+	width: 25%;
 }
 
 #art-gallery .content label{
@@ -339,7 +343,7 @@ h2:first-child{
 
 #art-gallery .gallery img.small{
 	width: 20%;
-	margin: 1% 10%;
+	margin: 1% 5%;
 	height: fit-content;
 }
 
@@ -424,7 +428,7 @@ h3{
 	text-shadow: 2px 2px 0 #fff;
 }
 
-#blurb p, #faveblurb p, #othersblurb p{
+#blurb p, #mainblurb p, #altblurb p, #faveblurb p, #othersblurb p{
 	padding: 0.5em;
 }
 
@@ -498,4 +502,10 @@ p.splashtag{
 
 #stuff .grid .item:nth-child(2n+1) a:hover, #stuff .grid .item:nth-child(3n) a:hover{
 	color: #fff;
+}
+
+map-caption{
+	display: inline-block;
+  width: 49.5%;
+
 }

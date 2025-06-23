@@ -28,6 +28,7 @@
                 <img src="art/3/stance.png">
                 <img src="art/3/tableturf.png" class="small">
                 <img src="art/3/yap.gif" class="small">
+                <img src="art/3/torrentz.png" class="small">
             </div>
 
         </div>

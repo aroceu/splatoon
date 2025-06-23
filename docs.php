@@ -345,6 +345,7 @@ new Freezeframe('.overlay', {
         <h3>Splatoon 3 Art</h3>
 
         <ul>
+            <li><strong>popop_tart</strong>, for the digital colored sketch of my Torrentz Hydra fit</li>
             <li><strong>atoi_iota</strong>, for the flat color icons with doodle backgrounds for both Splatoon 2 and 3</li>
             <li><strong>stupjam</strong>, for the Kingdra from Pok&eacute;mon banner art</li>
             <li><strong>ArmasDraws</strong>, for the close-up icon of my octoling in her inkline outfit</li>
@@ -371,7 +372,8 @@ new Freezeframe('.overlay', {
             <li><strong>Kai/Kaizoku_Tako</strong>, for the meme art of my octoling saying "RAE HOLY FUCK" and dabbing (they did it first! before Splatoon 3 gave us emotes!)</li>
         </ul>
 
-        <p class="splashtag"><img src="assets/splashtag.png" width="350"></p>
+        <p class="splashtag"><img src="assets/splashtag.png" width="350">
+        <img src="assets/splashtag-2.png" width="350"></p>
 
     </div>
 

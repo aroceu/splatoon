@@ -40,7 +40,7 @@
             <p><strong>Name:</strong> &darr;&times;Arrow.iKA</p>
             <p><strong>Mains:</strong>
             <img src="assets/weapons/tristringer.png" alt="tri-stringer"> 
-            <img src="assets/weapons/chs.png" alt="custom hydra splatling"> 
+            <img src="assets/weapons/torrentz.png" alt="torrentz hydra splatling"> 
             <img src="assets/weapons/hedit.png" alt="heavy edit splatling"></p>
             <p><strong>Favorites:</strong>
             <img src="assets/weapons/heavy.png" alt="heavy splatling"> 
@@ -68,14 +68,17 @@
             </div>
 
             <div id="badges">
+            <!-- img src="assets/badges/rockenberg.png" alt="rockenberg" -->
             <img src="assets/badges/szgold.png" alt="splat zones gold">
             <img src="assets/badges/tcg.png" alt="tower control gold">
             <img src="assets/badges/rmg.png" alt="rainmaker gold">
             <img src="assets/badges/slv.png" alt="silver challenges">
             <img src="assets/badges/kw.png" alt="killer wail">
+            <img src="assets/badges/grizzco.png" alt="lifetime grizzco points">
             <img src="assets/salmon/trium.png" alt="triumvirate defeat">
             <img src="assets/salmon/br.png" alt="big run (gold)">
             <img src="assets/salmon/hlm.png" alt="hazard level max">
+            <img src="assets/badges/jackpot.png" alt="jackpot">
             </div>
 
         </div>    

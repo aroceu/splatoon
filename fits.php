@@ -45,6 +45,39 @@
         event.target.classList.add('favactive');
             }
 
+        function faveExplo() {
+        var Image_Id = document.getElementById('faveWeaponFit');
+                Image_Id.src = "fits/favs/explo-fit.png";
+                document.getElementById("faveblurb").innerHTML = '<p>It makes sense to me that I like the <strong>Explosher</strong> since it plays in my typical role with my second favorite weapon class, sloshers. I mostly pull it out for Turf War and Splat Zones for the obvious reasons (it paints incredibly well from a long range), but I always find it fun when I do.</p>';
+                var elements = document.getElementsByClassName('favactive');
+            while(elements.length > 0){
+        elements[0].classList.remove('favactive');
+            }
+        event.target.classList.add('favactive');
+            }
+
+        function faveCexplo() {
+        var Image_Id = document.getElementById('faveWeaponFit');
+                Image_Id.src = "fits/favs/cexplo-fit.png";
+                document.getElementById("faveblurb").innerHTML = '<p>I think the <strong>Custom Explosher</strong> is a funny weapon because of its incoherently aggressive kit, and I play it in the same way. I made a silly outfit for it because silly playstyles deserve silly looks.</p>';
+                var elements = document.getElementsByClassName('favactive');
+            while(elements.length > 0){
+        elements[0].classList.remove('favactive');
+            }
+        event.target.classList.add('favactive');
+            }
+
+        function faveSlosher() {
+        var Image_Id = document.getElementById('faveWeaponFit');
+                Image_Id.src = "fits/favs/slosher-fit.png";
+                document.getElementById("faveblurb").innerHTML = '<p>I love the slosher class almost as much as I love splatlings, and I love playing the <strong>vanilla Slosher</strong> as well. I will admit that it is not the most fun weapon for me, but I feel that I understand it in a way that sometimes just winning with it is all the satisfaction that I need.</p>';
+                var elements = document.getElementsByClassName('favactive');
+            while(elements.length > 0){
+        elements[0].classList.remove('favactive');
+            }
+        event.target.classList.add('favactive');
+            }
+
     function faveNtri() {
         var Image_Id = document.getElementById('faveWeaponFit');
                 Image_Id.src = "fits/favs/ntri-fit.png";
@@ -71,6 +104,17 @@
         var Image_Id = document.getElementById('faveWeaponFit');
                 Image_Id.src = "fits/favs/nsquiffer-fit.png";
                 document.getElementById("faveblurb").innerHTML = '<p>I like my outfit for the <strong>New Squiffer</strong> more than the kit. But it is an incredibly funny kit. And I still love the squiffer.</p>';
+                var elements = document.getElementsByClassName('favactive');
+            while(elements.length > 0){
+        elements[0].classList.remove('favactive');
+            }
+        event.target.classList.add('favactive');
+            }
+
+    function faveTentatek() {
+        var Image_Id = document.getElementById('faveWeaponFit');
+                Image_Id.src = "fits/favs/ttek-fit.jpg";
+                document.getElementById("faveblurb").innerHTML = '<p>I got into playing the <strong>Tentatek Splattershot</strong> this game more because I really just wanted to make this outfit for it. Its kit is very good on top of that, as a bonus.</p>';
                 var elements = document.getElementsByClassName('favactive');
             while(elements.length > 0){
         elements[0].classList.remove('favactive');
@@ -133,32 +177,10 @@
         event.target.classList.add('otheractive');
             }
 
-    function othersCexplo() {
-        var Image_Id = document.getElementById('otherWeaponFit');
-                Image_Id.src = "fits/others/cexplo-fit.png";
-                document.getElementById("othersblurb").innerHTML = '<p>I think the <strong>Custom Explosher</strong> is a funny weapon, and I play it in the same way. I made a silly outfit for it because silly playstyles deserve silly looks.</p>';
-                var elements = document.getElementsByClassName('otheractive');
-            while(elements.length > 0){
-        elements[0].classList.remove('otheractive');
-            }
-        event.target.classList.add('otheractive');
-            }
-
     function othersCjet() {
         var Image_Id = document.getElementById('otherWeaponFit');
                 Image_Id.src = "fits/others/cjet-fit.png";
                 document.getElementById("othersblurb").innerHTML = '<p>I started playing the <strong>Custom Jet Squelcher</strong> more in Splatoon 3 out of wanting to play as a backliner but recognizing the advantage shooters tended to have, in terms of speed and position flexibility. I still find playing it decently fun as I find playing Splatoon itself fun. But playing cjet is also kind of my win button for when I want to backline and paint without putting too much effort in. Sometimes.</p>';
-                var elements = document.getElementsByClassName('otheractive');
-            while(elements.length > 0){
-        elements[0].classList.remove('otheractive');
-            }
-        event.target.classList.add('otheractive');
-            }
-
-    function othersExplo() {
-        var Image_Id = document.getElementById('otherWeaponFit');
-                Image_Id.src = "fits/others/explo-fit.png";
-                document.getElementById("othersblurb").innerHTML = '<p>It makes sense to me that I like the <strong>Explosher</strong> since it plays in my typical role with my second favorite weapon class, sloshers. I mostly pull it out for Turf War and Splat Zones for the obvious reasons (it paints incredibly well from a long range), but I always find it fun when I do.</p>';
                 var elements = document.getElementsByClassName('otheractive');
             while(elements.length > 0){
         elements[0].classList.remove('otheractive');
@@ -192,28 +214,6 @@
         var Image_Id = document.getElementById('otherWeaponFit');
                 Image_Id.src = "fits/others/shot-fit.png";
                 document.getElementById("othersblurb").innerHTML = '<p>The infamous <strong>Splattershot</strong>. Well, what can I say? It is one of the strongest weapons in the game, as well as being one of the most standard ones. I really like the outfit I made for it, and wearing it is the only reason I play the shot anymore.</p>';
-                var elements = document.getElementsByClassName('otheractive');
-            while(elements.length > 0){
-        elements[0].classList.remove('otheractive');
-            }
-        event.target.classList.add('otheractive');
-            }
-
-    function othersSlosher() {
-        var Image_Id = document.getElementById('otherWeaponFit');
-                Image_Id.src = "fits/others/slosher-fit.png";
-                document.getElementById("othersblurb").innerHTML = '<p>I love the slosher class almost as much as I love splatlings, and I love playing the <strong>vanilla Slosher</strong> as well. I will admit that it is not the most fun weapon for me, but I feel that I understand it in a way that sometimes just winning with it is all the satisfaction that I need.</p>';
-                var elements = document.getElementsByClassName('otheractive');
-            while(elements.length > 0){
-        elements[0].classList.remove('otheractive');
-            }
-        event.target.classList.add('otheractive');
-            }
-
-    function othersTentatek() {
-        var Image_Id = document.getElementById('otherWeaponFit');
-                Image_Id.src = "fits/others/ttek-fit.jpg";
-                document.getElementById("othersblurb").innerHTML = '<p>I got into playing the <strong>Tentatek Splattershot</strong> this game more because I really just wanted to make this outfit for it. Its kit is very good on top of that, as a bonus.</p>';
                 var elements = document.getElementsByClassName('otheractive');
             while(elements.length > 0){
         elements[0].classList.remove('otheractive');
@@ -286,7 +286,63 @@
             }
         event.target.classList.add('otheractive');
             }
+
+    function othersCobrajet() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/cobrajet-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>TBD</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+
+    function othersL3() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/glitterz-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>TBD</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
+
+    function othersWinter() {
+        var Image_Id = document.getElementById('otherWeaponFit');
+                Image_Id.src = "fits/others/winter-fit.png";
+                document.getElementById("othersblurb").innerHTML = '<p>TBD</p>';
+                var elements = document.getElementsByClassName('otheractive');
+            while(elements.length > 0){
+        elements[0].classList.remove('otheractive');
+            }
+        event.target.classList.add('otheractive');
+            }
 </script>
+
+<style type="text/css">
+    #fits .content label{
+        width: 33%;
+    }
+
+    #outfits-fits{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding-bottom: 1em;
+    }
+
+    #outfits-fits .mini-fit{
+        width: 25%;
+        text-align: center;
+    }
+
+    .mini-fit img{
+        height: 200px;
+    }
+
+    </style>
 
 <body>
 
@@ -301,7 +357,7 @@
         <!-- Favorites -->
 
         <input type="radio" id="faves" name="menu" class="radiobutton" checked>
-        <label for="faves" class="selector">Favorite Weapons</label>
+        <label for="faves" class="selector">Favorites</label>
 
         <div class="option">
             <div id="faves">
@@ -316,12 +372,17 @@
                         <li><a href="#" onclick="faveHeavyDeco()"><img src="weapons/heavydeco.png"></a></li>
                         <li><a href="#" onclick="faveCstring()"><img src="weapons/cstring.png"></a></li>
                         <li><a href="#" onclick="faveBlob()"><img src="weapons/blob.png"></a></li>
+                        <li><a href="#" onclick="faveExplo()"><img src="weapons/explo.png"></a></li>
+                        <li><a href="#" onclick="faveCexplo()"><img src="weapons/cexplo.png"></a></li>
+                        <li><a href="#" onclick="faveSlosher()"><img src="weapons/slosher.png"></a></li>
+                        <br />
                         <li><a href="#" onclick="faveNtri()"><img src="weapons/ntri.png"></a></li>
                         <li><a href="#" onclick="faveCsquiff()"><img src="weapons/csquiffer.png"></a></li>
                         <li><a href="#" onclick="faveNsquiff()"><img src="weapons/nsquiffer.png"></a></li>
                         <li><a href="#" onclick="fave52()"><img src="weapons/52.png"></a></li>
                         <li><a href="#" onclick="faveZap85()"><img src="weapons/zap85.png"></a></li>
                         <li><a href="#" onclick="faveCjr()"><img src="weapons/cjr.png"></a></li>
+                        <li><a href="#" onclick="faveTentatek()"><img src="weapons/ttek.png"></a></li>
                     </ul>
                 </div>
 
@@ -333,7 +394,7 @@
 
         <!-- Others -->
         <input type="radio" id="others" name="menu" class="radiobutton">
-        <label for="others" class="selector">Other Weapons</label>
+        <label for="others" class="selector">Weapons</label>
 
         <div class="option">
             <div id="others">
@@ -346,19 +407,18 @@
                     <ul>
                         <li><a href="#" onclick="othersPencil()"><img src="weapons/pencil.png"></a></li>
                         <li><a href="#" onclick="othersCliter()"><img src="weapons/cliter.png"></a></li>
-                        <li><a href="#" onclick="othersCjet()"><img src="weapons/cjet.png"></a></li>
-                        <li><a href="#" onclick="othersShot()"><img src="weapons/shot.png"></a></li>
-                        <li><a href="#" onclick="othersTentatek()"><img src="weapons/ttek.png"></a></li>
+                        <li><a href="#" onclick="othersCobrajet()"><img src="weapons/cobrajet.png"></a></li>
                         <li><a href="#" onclick="othersBallpoint()"><img src="weapons/bp.png"></a></li>
-                        <li><a href="#" onclick="othersExplo()"><img src="weapons/explo.png"></a></li>
-                        <li><a href="#" onclick="othersCexplo()"><img src="weapons/cexplo.png"></a></li>
-                        <li><a href="#" onclick="othersSlosher()"><img src="weapons/slosher.png"></a></li>
+                        <li><a href="#" onclick="othersShot()"><img src="weapons/shot.png"></a></li>
+                        <li><a href="#" onclick="othersL3()"><img src="weapons/glitterz-l3.png"></a></li>
                         <li><a href="#" onclick="othersNmachine()"><img src="weapons/nmachine.png"></a></li>
+                        <br />
                         <li><a href="#" onclick="othersFlingza()"><img src="weapons/flingza.png"></a></li>
                         <li><a href="#" onclick="othersInkbrush()"><img src="weapons/inkbrush.png"></a></li>
                         <li><a href="#" onclick="othersGloogas()"><img src="weapons/gloogas.png"></a></li>
                         <li><a href="#" onclick="othersStent()"><img src="weapons/stent.png"></a></li>
                         <li><a href="#" onclick="othersCblast()"><img src="weapons/cblast.png"></a></li>
+                        <li><a href="#" onclick="othersWinter()"><img src="weapons/wintr-rapid.png"></a></li>
                         <li><a href="#" onclick="othersReeflux()"><img src="weapons/reeflux.png"></a></li>
 
                     </ul>
@@ -369,6 +429,30 @@
             </div>
 
         </div>
+
+        <!-- Fits (no sendou set) -->
+        <input type="radio" id="outfits" name="menu" class="radiobutton">
+        <label for="outfits" class="selector">Fits</label>
+
+        <div class="option">
+            <div id="outfits-fits">
+
+                <div class="mini-fit"><img src="fits/gcko-splash.png"></div>
+                <div class="mini-fit"><img src="fits/glamorz-shot.png"></div>
+                <div class="mini-fit"><img src="fits/frzn-pro.png"></div>
+                <div class="mini-fit"><img src="fits/clawz-96.png"></div>
+                <div class="mini-fit"><img src="fits/angl-carbon.png"></div>
+                <div class="mini-fit"><img src="fits/cometz-octobrush.png"></div>
+                <div class="mini-fit"><img src="fits/painbrush-nouveau.png"></div>
+                <div class="mini-fit"><img src="fits/naut.png"></div>
+                <div class="mini-fit"><img src="fits/custom-dousers.png"></div>
+                <div class="mini-fit"><img src="fits/zf-scope.png"></div>
+                <div class="mini-fit"><img src="fits/stickerz-tana.png"></div>
+                <div class="mini-fit"><img src="fits/milk-flux.png"></div>
+
+            </div>
+
+            <p align="center">Check out my cosplay outfits <a href="cosplay">here</a>.</p>
 
         </div>
 
