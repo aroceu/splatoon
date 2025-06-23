@@ -445,7 +445,7 @@
                 <div class="mini-fit"><img src="fits/cometz-octobrush.png"></div>
                 <div class="mini-fit"><img src="fits/painbrush-nouveau.png"></div>
                 <div class="mini-fit"><img src="fits/naut.png"></div>
-                <div class="mini-fit"><img src="fits/custom-dousers.png"></div>
+                 <div class="mini-fit"><img src="fits/custom-dousers.png"></div>
                 <div class="mini-fit"><img src="fits/zf-scope.png"></div>
                 <div class="mini-fit"><img src="fits/stickerz-tana.png"></div>
                 <div class="mini-fit"><img src="fits/milk-flux.png"></div>
