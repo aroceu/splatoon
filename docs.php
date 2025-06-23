@@ -320,11 +320,6 @@ new Freezeframe('.overlay', {
 
         <p>The <strong>gallery</strong> is art of my octoling that I've commissioned or that friends have drawn for me out of their own generosity. The page is divided between Splatoon 3 and Splatoon 2 art, as my outfits are different between each game.</p>
 
-        <p>I'll note here that despite the hothouse hoodie being one of my favorite pieces of gear and the black bandana/hothouse hoodie/annaki arachno boots outfit being quintessentially me in a lot of ways, the outfit was more for my splatsona but not actually my 
-        main Custom Hydra Splatling outfit. My main ranked Custom Hydra fit was the golf visor/deep-octo satin jacket/pearl-scout lace-ups, because my Splatoon color has always been pink.</p>
-
-        <p>The tri-stringer outfit, however, is my main outfit in every regard.</p>
-
         <p><strong>Team pics</strong> is a small gallery of artwork and select screenshots of the respective teams I'm in or have been on. This one is not divided, because it's less substantial and I don't prioritize
         these in the same way I do for weapons or the game division in art.</p>
 
