@@ -412,6 +412,11 @@ ul#twocol li{
 a:link, a:visited{
 	color: #ee699c;
 	text-decoration: wavy underline 1px;
+	 -webkit-text-decoration-line: underline wavy;
+	-webkit-text-decoration-color: #ee699c;
+	-webkit-text-decoration-thickness: 1px;
+	text-decoration-style: wavy;
+
 }
 
 a:hover, a:active{
